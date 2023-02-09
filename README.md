@@ -1,4 +1,4 @@
-# SistemadeRiegoAutom-tico
+# SistemadeRiegoAutomatizado
 Proyecto de electronica donde se implementa un sistema de Riego Automatizado con Arduino
 
 Descripción:
